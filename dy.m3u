@@ -1,1 +1,6 @@
-
+#EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
+#EXTINF:-1 group-title="好朋友电影之1" tvg-name="动作片-打黑" tvg-logo="https://epg.112114.xyz/logo/动作片-打黑.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",动作片-打黑
+https://hd.ijycnd.com/play/Xe062L5b/index.m3u8
+#EXTINF:-1 group-title="好朋友电影之1" tvg-name="动作片-尼斯警花" tvg-logo="https://epg.112114.xyz/logo/动作片-尼斯警花.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",动作片-尼斯警花
+https://hd.ijycnd.com/play/YaOrZ4Le/index.m3u8
+#EXTINF:-1 group-title="好朋友电影之1" tvg-name="动作片-钻石女王" tvg-logo="https://epg.112114.xyz/logo/动作片-钻石女王.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",动作片-钻石女王
